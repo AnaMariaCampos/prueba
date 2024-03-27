@@ -1,0 +1,104 @@
+.titulo {
+    font-size: 30px;
+    background-image: linear-gradient(to left, #FFD700, #7B68EE, #3498db, #2ecc71, #FFD700); 
+    color: indianred;
+    margin: 0%;
+}
+
+
+
+.elementos {
+list-style: none;
+font-size: 30px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+border: 2px solid pink;
+box-sizing: border-box;
+width: 19%;
+padding: 0px;
+text-align: center;
+display: inline-block;
+
+}
+
+.dias {
+    border: 1px solid pink;
+    background-color: #00FFBD;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    font-size: 40px;
+
+}
+
+.lenguaje {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #F81B33
+}
+
+.recreo {
+    border: 1px solid pink;
+    padding: 0px;
+    font-size: 40px;  
+    
+}
+
+
+.matematicas {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #1273ED;
+}
+
+.historia {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #FAF746;
+}
+
+.tecnologia {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #BE43E5;
+}
+
+.educacionfisica {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #AAFCCA;
+}
+
+.cienciasnaturales {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #67F94D;
+}
+
+.musica {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #b02700;
+}
+
+.ziemax {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #E5BEF2;
+}
+
+.religion {
+    border: 1px solid pink;
+    padding: 0px;
+}
+
+.ingles {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #71F1FE;
+}
+
+.artes {
+    border: 1px solid pink;
+    padding: 0px;
+    background-color: #FF9FD8;
+}
